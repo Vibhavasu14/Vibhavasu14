@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Vibhavasu14/Vibhavasu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Vibhavasu14/Vibhavasu14** is a Full stack developer with great passion in learning new things and developing projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Here is my info about my technical skills :</h1>
+
+- Java
+  -core java
+  -oops
+  -Advanced Java
+- Python
+- SQL
+- Web technologies
+  - html
+  - css
+  - java script
